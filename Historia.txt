@@ -3,3 +3,6 @@ Hola
 Estamos en el Webinar de Git y GitHub
 
 son las 5:45 pm
+
+Estamos 48 conectados 
+
